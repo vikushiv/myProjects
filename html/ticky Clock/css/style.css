@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+
+html,body{
+    height:100% ;
+}
+#clock{
+    /* background-color:blueviolet; */
+    color: #fff;
+    font-family: 'Monoton', cursive;
+    font-size: 70px;
+    position: relative;
+    top: 50%;
+    margin-top: -35px;
+    text-align: center;
+
+
+}

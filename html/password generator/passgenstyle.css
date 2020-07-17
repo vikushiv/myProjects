@@ -1,0 +1,44 @@
+body{
+    background-color:blue;
+    
+}
+
+.container{
+width: 600px;
+margin: 0 auto;
+margin-top: 100px;
+font-size: 3em;
+}
+.out{
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.pass{
+    width: 380px;
+    float: left;
+    font-size: 30px;
+    color: #fff;
+    margin-left: 0;
+    padding:20px ;
+    background-color: blueviolet;
+
+}
+
+.in{
+    margin: 0;
+    padding: 9px;
+    float: right;
+    text-align: center;
+    background-color: #fff;
+    
+
+
+}
+
+
+
+
+
+
+
