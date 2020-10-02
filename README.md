@@ -1,3 +1,2 @@
 # myProjects
-Html folder include project of html css javascript bootstrap
-and other include backend project
+It's a project using HTML ,CSS , Bootstrap and MERN Stack . 
